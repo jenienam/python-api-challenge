@@ -24,3 +24,4 @@ Then, a heat map was created for every city through with the conditions:
 • Wind speed less than 10 mph.
 • Zero cloudiness.
 • Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
+ 
